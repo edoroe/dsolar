@@ -54,6 +54,6 @@
 The examples directory contains sample databases for various types of hardware.
 You need to copy the desired example file to the working directory of the server database. For example:
 </p>
-<div style="display: inline-block; background-color: #f6faf6; border: solid 1px #4682B4; margin: 1em 1em 1em 3em;padding: 1em;>
+<pre>
 $ cp AllInOne.dbs dbs/dsolar.dbs
 <div>
