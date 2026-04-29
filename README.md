@@ -25,6 +25,7 @@
           The data is stored once per second.
         </p>
         <p>dSolard can collect information from sensors of any equipment that supports the Modbus data transfer protocol.
+          Such as: Deye, Victron, Epever, Sunsynk, ...
         </p>
         <p>The program has a built-in battery charge management algorithm and calculation SOC.
         </p>
