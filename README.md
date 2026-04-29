@@ -51,7 +51,7 @@
 
 <h2>2. Examples</h2>
 <p>
-The examples directory contains sample databases for various types of hardware.
+The examples_dbs directory contains sample databases for various types of hardware.
 You need to copy the desired example file to the working directory of the server database. For example:
 </p>
 <pre>
