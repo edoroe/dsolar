@@ -2,7 +2,7 @@
 
     <p><b>dSolar</b> is a complex of <b>programs and devices</b> for monitoring and managing your solar power plant.
     </p>
-    <div class="subparagraphname">dSolar consists of:</div>
+    <div>dSolar consists of:</div>
     
     <ul>
       <li><b><u>dSolard</u></b> - the server program for collecting and processing information from equipment sensors.
