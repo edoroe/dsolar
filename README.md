@@ -48,6 +48,9 @@
       </li>
     </ul>
 
+<h4>dSolar is not only a software complex, it is a program + device.
+    </h4>
+
 <h2>2. Examples</h2>
 <p>
   The examples_dbs directory contains sample databases for various types of hardware.
