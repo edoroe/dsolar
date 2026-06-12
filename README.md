@@ -51,6 +51,13 @@
 <h4>dSolar is not only a software complex, it is a program + device.
     </h4>
 
+<div class="subparagraphname">Such a monitoring device may look like:</div>
+    <ul>
+      <li>a USB-stick for connecting via a USB interface to another device, for example, a Victron Cerbo GX</li>
+      <li>a USB-dongle for connecting directly to the inverter, for example, to an additional RS485/RS232 Modbus connector</li>
+      <li>or, familiar to everyone, a mini-PC or SBC installation</li>
+    </ul>
+
 <h2>2. Examples</h2>
 <p>
   The examples_dbs directory contains sample databases for various types of hardware.
