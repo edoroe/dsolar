@@ -1,11 +1,10 @@
 <h2>1. Description</h2>
 
-<p><b>dSolar</b> is a complex of programs for monitoring and managing your solar power plant.
+<p><b>dSolar</b> is a complex of <b>programs and devices</b> for monitoring and managing your solar power plant.
     </p>
-    <p>dSolar consists of:
-    </p>
+    <div class="subparagraphname">dSolar consists of:</div>
     <ul>
-      <li><u><b>dSolard</b></u> - the server program for collecting and processing information from equipment sensors.
+      <li><b><u>dSolard</u></b> - the server program for collecting and processing information from equipment sensors.
         <p>
           The dSolard server program runs on OS Linux and can be installed on the:
           <ul>
@@ -27,7 +26,6 @@
           The data is stored once per second.
         </p>
         <p>dSolard can collect information from sensors of any equipment that supports the Modbus data transfer protocol.
-          Such as: Deye, Victron, Epever, Sunsynk, ...
         </p>
         <p>The program has a built-in battery charge management algorithm and calculation SOC.
         </p>
@@ -42,11 +40,27 @@
         </p>
         <br>
       </li>
-      <li><u><b>dSolar</b></u> - the client program is designed for data visualization.
+      <li><b><u>dSolar</u></b> - the client program is designed for data visualization.
         <p>
           The dSolar client program runs on a Linux, Windows or Andorid OS.
         </p>
       </li>
+    </ul>
+    
+    <h4>dSolar is not only a software complex, it is a program + device.
+    </h4>
+
+    <div class="subparagraphname">Such a monitoring device may look like:</div>
+    <ul>
+      <li>a USB-stick for connecting via a USB interface to another device, for example, a Victron Cerbo GX</li>
+      <li>a USB-dongle for connecting directly to the inverter, for example, to an additional RS485/RS232 Modbus connector</li>
+      <li>or, familiar to everyone, a mini-PC or SBC installation</li>
+    </ul>
+    
+    <div class="subparagraphname">dSolar integration:</div>
+    <ul>
+      <li><a href="#Grafana" title="Grafana">Grafana</a></li>
+      <li><a href="#MQTT" title="MQTT">MQTT</a></li>
     </ul>
 
 <h2>2. Examples</h2>
