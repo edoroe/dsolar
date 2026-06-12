@@ -72,6 +72,6 @@
   You need to copy the desired example file to the working directory of the server database. For example:
 </p>
 
-<pre>
+<div>
 $ cp AllInOne.dbs dbs/dsolar.dbs
-</pre>
+</div>
