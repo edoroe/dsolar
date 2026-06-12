@@ -60,8 +60,8 @@
 
 <div class="subparagraphname">dSolar integration:</div>
     <ul>
-      <li><a href="#Grafana" title="Grafana">Grafana</a></li>
-      <li><a href="#MQTT" title="MQTT">MQTT</a></li>
+      <li>Grafana</li>
+      <li>MQTT</li>
     </ul>
 
 <h2>2. Examples</h2>
