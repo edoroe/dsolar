@@ -2,12 +2,14 @@
 
     <p><b>dSolar</b> is a complex of <b>programs and devices</b> for monitoring and managing your solar power plant.
     </p>
-    <div>dSolar consists of:</div>
+    <p>dSolar consists of:</p>
     
     <ul>
       <li><b><u>dSolard</u></b> - the server program for collecting and processing information from equipment sensors.
         <p>
           The dSolard server program runs on OS Linux and can be installed on the:
+        </p>
+        
           <ul>
             <li>
               <b>mini-PC</b> 
@@ -22,7 +24,7 @@
               (such as Luckfox, Arduino Uno Q, MangoPi, STM32MP1, ...)
             </li>
           </ul>
-        </p>
+        
         <p>All data, collected by the server, is stored locally on your Linux device. 
           The data is stored once per second.
         </p>
@@ -69,6 +71,7 @@
   The examples_dbs directory contains sample databases for various types of hardware.
   You need to copy the desired example file to the working directory of the server database. For example:
 </p>
+
 <pre>
 $ cp AllInOne.dbs dbs/dsolar.dbs
 </pre>
