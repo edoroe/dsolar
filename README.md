@@ -58,6 +58,12 @@
       <li>or, familiar to everyone, a mini-PC or SBC installation</li>
     </ul>
 
+<div class="subparagraphname">dSolar integration:</div>
+    <ul>
+      <li><a href="#Grafana" title="Grafana">Grafana</a></li>
+      <li><a href="#MQTT" title="MQTT">MQTT</a></li>
+    </ul>
+
 <h2>2. Examples</h2>
 <p>
   The examples_dbs directory contains sample databases for various types of hardware.
